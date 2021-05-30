@@ -1,0 +1,31 @@
+[{"name":"pepperoni",
+ "description":"Pepperoni is an American variety of salami, made from cured pork and beef seasoned with paprika",
+ "imageurl":"https://i.pinimg.com/originals/d7/55/35/d755351499e75e5af4015dae1952ab61.jpg",
+ "price":"$60",
+ "bannerimage":"https://img.lovepik.com/free-template/20210329/bg/4a8d2ef0f3c00.jpg_detail.jpg!detail808"
+},
+{"name":"cheese corn",
+ "description":"cheese corn is an an dominos pizza , topped with corn with cheezy base",
+ "imageurl":"https://www.dominos.co.in//files/items/Corn_&_Cheese.jpg",
+ "price":"$20",
+ "bannerimage":"https://i.pinimg.com/originals/79/26/6b/79266bd4bf6bccd019fb8bdd386db870.jpg"
+},
+{"name":"paneer pizza",
+ "description":" Pizza crust layered with marinara sauce, paneer, bell pepper, onions, and cheese.",
+ "imageurl":"https://www.ruchiskitchen.com/wp-content/uploads/2020/09/Paneer-tikka-pizza-recipe-1.jpg",
+ "price":"$40",
+ "bannerimage":"https://png.pngtree.com/png-clipart/20201216/original/pngtree-vietnamese-avocado-food-discount-promotion-png-image_5703693.jpg"
+},
+{"name":"Margherita",
+ "description":"It is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese",
+ "imageurl":"https://www.acouplecooks.com/wp-content/uploads/2018/10/Margherita-Pizza-018.jpg",
+ "price":"$40",
+ "bannerimage":"https://i.pinimg.com/736x/00/9e/56/009e5678f1a9b6fbb5f2751e4087b954.jpg"
+},
+{"name":"Veg Pizza",
+ "description":"A pizza that decidedly staggers under an overload of golden corn, exotic black olive,crisp capsicum juicyfresh tomatoes and jalapeno - with extra cheese to go all around.",
+ "imageurl":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+ "price":"$30",
+ "bannerimage":"https://i.pinimg.com/736x/ff/ae/f6/ffaef66266356157da9d32004a1a3290.jpg"
+}
+]
